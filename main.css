@@ -227,6 +227,8 @@ body {
 }
 
 .footer__socials_roninDir {
+  position: relative;
+  z-index: 2;
   background: #35354b;
   padding: 0.5rem 0.7rem;
   border-radius: 1rem;
